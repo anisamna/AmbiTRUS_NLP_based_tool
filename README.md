@@ -1,1 +1,10 @@
-# AmbiTRUS_NLP_based_tool
+# Leveraging NLP Techniques for Ambiguity Analysis: The AmbiTRUS Tool
+
+# Abstract:
+This technical report delves into the development of the AmbiTRUS (Ambiguity Tracking and Resolution for User Stories) tool, a specialized implementation tailored to deploy the AmbiTRUS framework. Utilizing Natural Language Processing (NLP) techniques, AmbiTRUS performs ambiguity analysis within user stories, aligning with established quality criteria. The report aims to provide comprehensive technical insights into the functionality of the AmbiTRUS tool, focusing on the underlying NLP techniques for each quality criterion.
+
+The significance of translating quality guidelines into Computer-Aided Software Engineering (CASE) tools has been widely recognized across industries. Such tools not only enhance software development efficiency and resource management but also ensure system robustness and reliability. However, despite known inefficiencies in manual analysis processes, studies indicate a low adoption rate of automated techniques for requirements analysis. In contrast, the adoption of NLP-based techniques has shown effectiveness in enhancing problem understanding and user expectations.
+
+In response to these challenges, the AmbiTRUS tool has been developed to leverage NLP techniques for efficient detection and resolution of ambiguity in user stories. By validating against AmbiTRUS quality criteria, the tool offers semi-automatic analysis, empowering users to select relevant criteria and validate results before implementation. Additionally, the tool incorporates a machine-learning-based recommendation system and automatic calculation features to enhance effectiveness and facilitate alignment between tool-generated recommendations and user opinions.
+
+The report discusses the methodology employed in the development of the AmbiTRUS tool, highlighting the NLP techniques supporting quality criteria validation, and detailing the practical implementation of AmbiTRUS in analyzing ambiguity in user stories. Through this comprehensive examination, the report aims to shed light on the efficacy and utility of the AmbiTRUS tool in addressing ambiguity challenges in software development processes.
